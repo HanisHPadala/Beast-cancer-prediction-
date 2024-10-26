@@ -23,10 +23,11 @@ The dataset used is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://
 ## Installation
 To run this project, clone this repository and install the required dependencies.
 
-```bash
+\```bash
 git clone https://github.com/your-username/breast-cancer-prediction.git
 cd breast-cancer-prediction
-pip install -r requirements.txt
+pip install -r requirements.txt 
+\```
 
 ## Usage
 1. **Download the Dataset**: The Breast Cancer Wisconsin dataset can be downloaded from Kaggle. Ensure you have your Kaggle API credentials set up.
